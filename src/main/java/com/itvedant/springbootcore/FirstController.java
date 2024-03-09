@@ -36,4 +36,9 @@ public class FirstController {
     public String about(){
         return "aboutus.html";
     }
+
+    public String contactUs(){
+        return null;
+    }
+
 }
